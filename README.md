@@ -23,3 +23,7 @@ A binary image classifier built using a custom CNN in PyTorch, trained on real-w
 1. Download the dataset from Kaggle and place `Cat/` and `Dog/` folders in the root directory
 2. Uncomment the data splitting cells and run them once
 3. Run remaining cells to train and evaluate
+
+## Future Improvements
+- Improve accuracy using Transfer Learning (ResNet/EfficientNet)
+- Add Streamlit web app for live image upload and prediction
